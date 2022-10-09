@@ -1,3 +1,5 @@
+#Commented Shaposhnik Vladislav 09.10.22
+
 from struct import *
 from random import randint
 from math import log
